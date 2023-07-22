@@ -1,0 +1,59 @@
+
+
+.custom-button2 {
+  border-color: #8B4513;
+}
+
+.custom-button-text {
+  color: #8B4513;
+}
+
+.custom-button2:hover {
+  border-color: #8B4513;
+  background-color: #8B4513;
+}
+
+.custom-toggle {
+  background-color: #8B4513;
+  color: beige;
+  border-color: #8B4513;
+}
+
+.custom-menu {
+  background-color: #8B4513;
+  color: beige;
+}
+
+.custom-menu .dropdown-item {
+  color: beige;
+}
+
+.custom-menu .dropdown-item:hover {
+  background-color: #8B4513;
+  color: beige;
+  border-color: #8B4513;
+}
+
+.custom-toggle {
+  background-color: #8B4513;
+  color: beige;
+  border-color: beige;
+}
+
+.custom-toggle:hover,
+.custom-toggle:focus,
+.custom-toggle:active {
+    background-color: beige;
+    color: #8B4513;
+    border-color: beige;
+}
+
+
+  
+  
+  
+  
+  
+  
+  
+  

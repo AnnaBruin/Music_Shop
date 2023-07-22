@@ -1,0 +1,13 @@
+.custom-button {
+    border-color: #8B4513;
+}
+
+.custom-button-text {
+    color: #8B4513;
+}
+
+.custom-button:hover {
+    border-color: #8B4513;
+    background-color: beige;
+    border-width: 3px;
+}

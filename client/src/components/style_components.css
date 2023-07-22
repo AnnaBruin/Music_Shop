@@ -1,0 +1,55 @@
+.brand-card {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #8B4513; /* Кремовый цвет */
+  }
+  
+  .brand-card:hover {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #8B4513; 
+  }
+  
+  .brand-card.selected {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #8B4513; 
+  }
+
+  .custom-button2 {
+    border-color: #8B4513;
+}
+
+.custom-button-text {
+    color: #8B4513;
+}
+
+.custom-button2:hover {
+    border-color: #8B4513;
+    background-color: #8B4513;
+}
+
+.custom-button2:hover .custom-button-text {
+  color: beige;
+}
+
+.custom-pagination .page-link {
+  background-color: beige; 
+  border-color: beige; 
+  color: brown; 
+}
+
+.custom-pagination .page-item.custom-active-page .page-link {
+  background-color: brown; 
+  border-color: beige; 
+  color: beige;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
